@@ -17,7 +17,8 @@ https://www.jbarisk.com/
 
 and additional documentation for the JBA Risk REST API is here:
 
-https://flyvis-openapi.s3.eu-west-1.amazonaws.com/index.html#/
+https://api.jbarisk.com/docs/1.1/index.html
+https://api.jbarisk.com/docs/1.0/index.html
 
 JBA Risk provides a token to establish a valid API connection for all requests.  Users can retrieve information required to make subsequent data requests given an URL endpoint and additional request parameters.
 
